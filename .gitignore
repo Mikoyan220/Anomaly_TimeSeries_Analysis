@@ -1,3 +1,4 @@
 # .gitignore
 config.py
 db_connector.py
+rpy2 setup and config.ipynb
