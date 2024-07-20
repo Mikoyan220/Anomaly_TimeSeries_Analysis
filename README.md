@@ -1,0 +1,1 @@
+Frameworks explored in this research to demonstrate the potential and practicality of data science for detecting anomaly food price signals through application of (i) data pipeline, (ii) temporal analysis and (iii) Artificial Intelligence (AI) facilitated pair programming.
